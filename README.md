@@ -1,3 +1,5 @@
+Готовое exe находится здесь - https://github.com/georgiyauto/YouTube-Downloader-exe
+
 # YouTube Downloader GUI
 
 Приложение для скачивания видео с YouTube с графическим интерфейсом.
